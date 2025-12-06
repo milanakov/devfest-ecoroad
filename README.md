@@ -33,6 +33,7 @@ python app.py
 Open index.html in a browser to use the frontend.
 
 Emission factors used (kg CO2 per km)
+
 Car 0.20–0.25
 
 Bus 0.08
