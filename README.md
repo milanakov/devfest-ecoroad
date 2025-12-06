@@ -34,11 +34,17 @@ Open index.html in a browser to use the frontend.
 
 Emission factors used (kg CO2 per km)
 Car 0.20–0.25
+
 Bus 0.08
+
 E-bike 0.004–0.01
+
 E-scooter 0.015
+
 Bicycle 0
+
 Walking 0
+
 These values are based on DEFRA, EEA and published LCA studies.
 
 Future extensions planned:
